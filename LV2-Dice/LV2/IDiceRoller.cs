@@ -1,4 +1,0 @@
-﻿interface IDiceRoller
-{
-    void RollAllDice();
-}
