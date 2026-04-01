@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\bin\Debug\net7.0\LV2.exe
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\bin\Debug\net7.0\LV2.deps.json
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\bin\Debug\net7.0\LV2.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\bin\Debug\net7.0\LV2.dll
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\bin\Debug\net7.0\LV2.pdb
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\obj\Debug\net7.0\LV2.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\obj\Debug\net7.0\LV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\obj\Debug\net7.0\LV2.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\obj\Debug\net7.0\LV2.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\obj\Debug\net7.0\LV2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\obj\Debug\net7.0\LV2.dll
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\obj\Debug\net7.0\refint\LV2.dll
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\obj\Debug\net7.0\LV2.pdb
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\obj\Debug\net7.0\LV2.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Faks\3.Semestar\Objektno orijentirano programiranje\LV2\obj\Debug\net7.0\ref\LV2.dll

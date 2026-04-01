@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\Die\obj\Debug\net7.0\Die.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Die\obj\Debug\net7.0\Die.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Die\obj\Debug\net7.0\Die.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Die\obj\Debug\net7.0\Die.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Die\obj\Debug\net7.0\Die.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Die\bin\Debug\net7.0\Die.exe
+C:\Users\Korisnik\Desktop\Die\bin\Debug\net7.0\Die.deps.json
+C:\Users\Korisnik\Desktop\Die\bin\Debug\net7.0\Die.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Die\bin\Debug\net7.0\Die.dll
+C:\Users\Korisnik\Desktop\Die\bin\Debug\net7.0\Die.pdb
+C:\Users\Korisnik\Desktop\Die\obj\Debug\net7.0\Die.dll
+C:\Users\Korisnik\Desktop\Die\obj\Debug\net7.0\refint\Die.dll
+C:\Users\Korisnik\Desktop\Die\obj\Debug\net7.0\Die.pdb
+C:\Users\Korisnik\Desktop\Die\obj\Debug\net7.0\Die.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Die\obj\Debug\net7.0\ref\Die.dll
