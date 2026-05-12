@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Bridge/Bridge.csproj" Id="fb2711a6-b6f4-478e-ae9f-134abfafcf7d" />
+  <Project Path="Composit/Composit.csproj" />
+  <Project Path="LV5/LV5.csproj" />
+  <Project Path="Proxy/Proxy.csproj" />
+</Solution>

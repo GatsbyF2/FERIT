@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\obj\Debug\net10.0\Composit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\obj\Debug\net10.0\Composit.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\obj\Debug\net10.0\Composit.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\obj\Debug\net10.0\Composit.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\bin\Debug\net10.0\Composit.deps.json
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\bin\Debug\net10.0\Composit.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\bin\Debug\net10.0\Composit.pdb
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\obj\Debug\net10.0\Composit.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\obj\Debug\net10.0\refint\Composit.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\obj\Debug\net10.0\Composit.pdb
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Composit\obj\Debug\net10.0\ref\Composit.dll
