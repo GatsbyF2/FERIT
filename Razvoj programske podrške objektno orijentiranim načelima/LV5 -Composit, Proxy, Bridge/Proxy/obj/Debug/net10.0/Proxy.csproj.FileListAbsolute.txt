@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\bin\Debug\net10.0\Proxy.deps.json
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\bin\Debug\net10.0\Proxy.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\bin\Debug\net10.0\Proxy.pdb
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\obj\Debug\net10.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\obj\Debug\net10.0\Proxy.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\obj\Debug\net10.0\Proxy.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\obj\Debug\net10.0\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\obj\Debug\net10.0\Proxy.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\obj\Debug\net10.0\refint\Proxy.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\obj\Debug\net10.0\Proxy.pdb
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV5\Proxy\obj\Debug\net10.0\ref\Proxy.dll
