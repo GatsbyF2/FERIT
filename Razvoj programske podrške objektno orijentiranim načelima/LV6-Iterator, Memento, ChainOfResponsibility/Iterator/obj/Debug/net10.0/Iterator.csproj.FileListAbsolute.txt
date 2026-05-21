@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\bin\Debug\net10.0\Iterator.deps.json
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\bin\Debug\net10.0\Iterator.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\bin\Debug\net10.0\Iterator.pdb
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\obj\Debug\net10.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\obj\Debug\net10.0\Iterator.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\obj\Debug\net10.0\Iterator.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\obj\Debug\net10.0\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\obj\Debug\net10.0\Iterator.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\obj\Debug\net10.0\refint\Iterator.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\obj\Debug\net10.0\Iterator.pdb
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Iterator\obj\Debug\net10.0\ref\Iterator.dll
