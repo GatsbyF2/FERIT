@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ChainOfResponsibility/ChainOfResponsibility.csproj" Id="0e63643b-48f2-431b-8afc-42188d542729" />
+  <Project Path="Iterator/Iterator.csproj" />
+  <Project Path="LV6/LV6.csproj" />
+  <Project Path="Memento/Memento.csproj" Id="b0ca3b0c-b8fd-4e41-ab09-16d8cf67dec7" />
+</Solution>

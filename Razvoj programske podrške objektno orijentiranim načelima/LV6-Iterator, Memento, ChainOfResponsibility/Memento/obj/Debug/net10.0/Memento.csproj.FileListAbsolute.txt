@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\bin\Debug\net10.0\Memento.deps.json
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\bin\Debug\net10.0\Memento.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\bin\Debug\net10.0\Memento.pdb
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\obj\Debug\net10.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\obj\Debug\net10.0\Memento.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\obj\Debug\net10.0\Memento.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\obj\Debug\net10.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\obj\Debug\net10.0\Memento.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\obj\Debug\net10.0\refint\Memento.dll
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\obj\Debug\net10.0\Memento.pdb
+C:\Users\Gabriel\Desktop\Univeristy\4.Semestar\Razvoj programske podrške objektno orijentiranim načelima\LV\LV6\Memento\obj\Debug\net10.0\ref\Memento.dll
